@@ -14,13 +14,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/satender-kumars-projects-f3d3d991/v0-siem-optimization-with-splunk-and-sentinel](https://vercel.com/satender-kumars-projects-f3d3d991/v0-siem-optimization-with-splunk-and-sentinel)**
+**https://kzmkg9bsq1bqs9qs92ra.lite.vusercontent.net/**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.dev/chat/projects/Q8WV0RO7IRg](https://v0.dev/chat/projects/Q8WV0RO7IRg)**
+**https://kzmkg9bsq1bqs9qs92ra.lite.vusercontent.net/**
 
 ## How It Works
 
